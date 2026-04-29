@@ -1,2 +1,7 @@
-# demo-escribania-estudio-juridico-dussaut
-Demo web para Escribania Estudio Juridico Dussaut — diseñada por eterlab.
+# Escribania Estudio Juridico Dussaut
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
